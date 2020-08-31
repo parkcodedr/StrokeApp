@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StrokeApp</string>
+    <string name="developer">Powered by: \n Lumminds TechCity</string>
+    <string name="app_title">Stroke Analysis</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
